@@ -1,0 +1,9 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Sebastian Szczepański",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows|mac"
+}
